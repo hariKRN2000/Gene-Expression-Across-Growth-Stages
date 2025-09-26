@@ -1,5 +1,5 @@
 # Gene Expression Across Growth Stages (GEAGS)
-This repository contains all the files required to run the GEAGS framework and replicate different results published in the paper. 
+This repository contains all the files required to run the GEAGS framework and replicate different results published in the paper. Additionally, the raw experimental data, plate reader protocol files and appropriate plasmid maps are also available in the repository.
 
 ## Installation: 
 To run the files in the repository, clone this repository via git. into your computer using the command:<br>
