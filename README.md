@@ -48,4 +48,5 @@ All packages are openly available and can be easily installed and maintained usi
 -- __Sensitivity Analysis, Phase Diagram Analysis, Random Trajectory Analysis, Effective Models and Layered Control Model__ are folders containing the python as well as jupyter notebook files used for the analyses. <br><br>
 -- __source data__ contains the raw data obtained from the experiments. <br><br>
 -- __plasmid maps__ contains the GenBank files describing the plasmids used for the study. <br><br>
+-- __ssrA tag analysis__ contains the sfYFP-ssrA data and the CRN model simulation. <br><br>
 
