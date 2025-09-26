@@ -1,0 +1,158 @@
+LOCUS       pCH_M037                1523 bp ds-DNA     circular     28-AUG-2019
+DEFINITION  Gibson/Homology Cloning ligation product.
+ACCESSION   urn.local.chelseahu.12-aqv97sl
+VERSION     urn.local.chelseahu.12-aqv97sl
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    1..33
+                     /Source="referenceToDocument:
+                     urn:local:sclamons:58-8irk0zx"
+                     /note="Geneious type: Concatenated sequence"
+                     /locus_tag="ampr_cole1Low (concatenated sequence 1)"
+                     /label="ampr_cole1Low (concatenated sequence 1)"
+                     /ApEinfo_label="ampr_cole1Low (concatenated sequence 1)"
+                     /ApEinfo_fwdcolor="#7eff74"
+                     /ApEinfo_revcolor="#7eff74"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+                     /ApEinfo_hidden
+     CDS             34..83
+                     /locus_tag="AmpR"
+                     /label="AmpR"
+                     /ApEinfo_label="AmpR"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     complement(34..55)
+                     /Sequence="AAAAAGGGAATAAGGGCGACAC"
+                     /Hairpin_Tm="None"
+                     /Tm="59.2"
+                     /Self_Dimer_Tm="None"
+                     /%GC="45.5"
+                     /created_by="primer3"
+                     /Transferred_From="ASS_Carb.REV"
+                     /Transferred_Similarity="100.00%"
+                     /locus_tag="Carb.REV"
+                     /label="Carb.REV"
+                     /ApEinfo_label="Carb.REV"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             84..875
+                     /locus_tag="AmpR(1)"
+                     /label="AmpR(1)"
+                     /ApEinfo_label="AmpR"
+                     /ApEinfo_fwdcolor="#f9040b"
+                     /ApEinfo_revcolor="#7d0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     rep_origin      1028..1523
+                     /locus_tag="ori"
+                     /label="ori"
+                     /ApEinfo_label="ori"
+                     /ApEinfo_fwdcolor="#e5f9fc"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     rep_origin      1..33
+                     /locus_tag="ori(1)"
+                     /label="ori(1)"
+                     /ApEinfo_label="ori"
+                     /ApEinfo_fwdcolor="#e5f9fc"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     promoter        1028..1033
+                     /locus_tag="RNAII promoter"
+                     /label="RNAII promoter"
+                     /ApEinfo_label="RNAII promoter"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     promoter        1034..1050
+                     /locus_tag="RNAII promoter(1)"
+                     /label="RNAII promoter(1)"
+                     /ApEinfo_label="RNAII promoter"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     promoter        1051..1056
+                     /locus_tag="RNAII promoter(2)"
+                     /label="RNAII promoter(2)"
+                     /ApEinfo_label="RNAII promoter"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     promoter        complement(1181..1186)
+                     /locus_tag="RNA I promoter"
+                     /label="RNA I promoter"
+                     /ApEinfo_label="RNA I promoter"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    34..1523
+                     /Source="referenceToDocument:
+                     urn:local:sclamons:58-8irk0zx"
+                     /note="Geneious type: Concatenated sequence"
+                     /locus_tag="ampr_cole1Low (concatenated sequence 1)(1)"
+                     /label="ampr_cole1Low (concatenated sequence 1)(1)"
+                     /ApEinfo_label="ampr_cole1Low (concatenated sequence 1)"
+                     /ApEinfo_fwdcolor="#7eff74"
+                     /ApEinfo_revcolor="#7eff74"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+                     /ApEinfo_hidden
+     primer_bind     15..33
+                     /Sequence="TAGTCCTGTCGGGTTTCGC"
+                     /Hairpin_Tm="39.1"
+                     /Tm="59.4"
+                     /Self_Dimer_Tm="None"
+                     /%GC="57.9"
+                     /created_by="primer3"
+                     /Transferred_From="ASS_Cole1.FOR"
+                     /Transferred_Similarity="100.00%"
+                     /locus_tag="Cole1.FOR"
+                     /label="Cole1.FOR"
+                     /ApEinfo_label="Cole1.FOR"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 gcctggtatc tttatagtcc tgtcgggttt cgcgtgtcgc ccttattccc ttttttgcgg
+       61 cattttgcct tcctgttttt gctcacccag aaacgctggt gaaagtaaaa gatgctgaag
+      121 atcagttggg tgcacgagtg ggttacatcg aactggatct caacagcggt aagatccttg
+      181 agagttttcg ccccgaagaa cgttttccaa tgatgagcac ttttaaagtt ctgctatgtg
+      241 gcgcggtatt atcccgtatt gacgccgggc aagagcaact cggtcgccgc atacactatt
+      301 ctcagaatga cttggttgag tactcaccag tcacagaaaa gcatcttacg gatggcatga
+      361 cagtaagaga attatgcagt gctgccataa ccatgagtga taacactgcg gccaacttac
+      421 ttctgacaac gatcggagga ccgaaggagc taaccgcttt tttgcacaac atgggggatc
+      481 atgtaactcg ccttgatcgt tgggaaccgg agctgaatga agccatacca aacgacgagc
+      541 gtgacaccac gatgcctgta gcaatggcaa caacgttgcg caaactatta actggcgaac
+      601 tacttactct agcttcccgg caacaattaa tagactggat ggaggcggat aaagttgcag
+      661 gaccacttct gcgctcggcc cttccggctg gctggtttat tgctgataaa tctggagccg
+      721 gtgagcgtgg gtcgcgcggt atcattgcag cactggggcc agatggtaag ccctcccgta
+      781 tcgtagttat ctacacgacg gggagtcagg caactatgga tgaacgaaat agacagatcg
+      841 ctgagatagg tgcctcactg attaagcatt ggtaactgtc agaccaagtt tactcatata
+      901 tactttagat tgatttaaaa cttcattttt aatttaaaag gatctaggtg aagatccttt
+      961 ttgataatct catgaccaaa atcccttacg ctgcgtcaga ccccgtagaa aagatcaaag
+     1021 gatcttcttg agatcctttt tttctgcgcg taatctgctg cttgcaaaca aaaaaaccac
+     1081 cgctaccagc ggtggtttgt ttgccggatc aagagctacc aactcttttt ccgaaggtaa
+     1141 ctggcttcag cagagcgcag ataccaaata ctgttcttct agtgtagccg tagttaggcc
+     1201 accacttcaa gaactctgta gcaccgccta catacctcgc tctgctaatc ctgttaccag
+     1261 tggctgctgc cagtggcgat aagtcgtgtc ttaccgggtt ggactcaaga cgatagttac
+     1321 cggataaggc gcagcggtcg ggctgaacgg ggggttcgtg cacacagccc agcttggagc
+     1381 gaacgaccta caccgaactg agatacctac agcgtgagct atgagaaagc gccacgcttc
+     1441 ccgaagggag aaaggcggac aggtatccgg taagcggcag ggtcggaaca ggagagcgca
+     1501 cgagggagct tccaggggga aac   
+//
